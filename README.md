@@ -10,7 +10,7 @@
 
 ## 🚀 چگونه انیمیشن را ببینم؟
 روی فایل `animation.html` کلیک کنید یا از لینک زیر استفاده کنید:
-[مشاهده انیمیشن زنده](https://htmlpreview.github.io/?https://github.com/catxco/basic_animation/blob/main/animation.html)
+[مشاهده انیمیشن زنده](https://htmlpreview.github.io/?https://github.com/catcxo/basic_animation/blob/main/animation.html)
 
 ## 🛠️ تکنولوژی‌ها
 - HTML5
@@ -36,7 +36,7 @@ This project is a simple animation that shows a circle that:
 
 ## 🚀 How to see the animation?
 Click on the `animation.html` file or use the link below:
-[View Live Animation](https://htmlpreview.github.io/?https://github.com/catxco/basic_animation/blob/main/animation.html)
+[View Live Animation](https://htmlpreview.github.io/?https://github.com/catcxo/basic_animation/blob/main/animation.html)
 
 ## 🛠️ Technologies Used
 - HTML5
