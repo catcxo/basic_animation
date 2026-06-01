@@ -17,7 +17,7 @@
 - CSS3 (Keyframes Animation)
 
 ## 👤 سازنده
-**catxco**
+**catcxo**
 
 ## 📅 تاریخ ساخت
 June 2026
